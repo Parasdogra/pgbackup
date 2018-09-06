@@ -21,7 +21,7 @@ S3 Example w/ bucket name:
 
 ::
 
-    $ pgbackup postgres://bob@example.com:5432/db_one --driver local /vars/local/db_one/backups
+    $ pgbackup postgres://bob@example.com:5432/db_one --driver local /var/local/db_one/backups
 
 Local Example w/ local path:
 
